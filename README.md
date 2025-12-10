@@ -35,7 +35,7 @@ The paths have been updated to reflect the structure: `screenshots/task3/filenam
 | :--- | :--- | :--- | :--- |
 | **All Products (Light Mode)** | `all product in light mode.PNG` | ![All Products Light Mode](screenshots/task3/allProductInLightMode.PNG) | Displays all products in light mode with options to view details. |
 | **All Products (Dark Mode with Row Card)** | `all product in dark mode with row card.PNG` | ![All Products Dark Mode](screenshots/task3/allProductInDarkModeWithRowCard.PNG) | Displays all products in dark mode using a row card layout. |
-| **Search by Category & Title** | `searchByCategoryAndTitle.PNG` | ![Search by Category & Title](screenshots/task3/searching.PNG) | Shows searching products by both category and title filters. |
+| **Search** | `searching.PNG` | ![Search by Category & Title](screenshots/task3/searching.PNG) | Shows searching. |
 | **Search Only by Title** | `searchOnlyByTitle.PNG` | ![Search Only by Title](screenshots/task3/searchOnlyByTitle.PNG) | Shows searching products using only the title. |
 | **Offline Pending Sync** | `offLinePendingSync.PNG` | ![Offline Pending Sync](screenshots/task3/offLinePendingSync.PNG) | Displays products that are pending sync while offline. |
 | **After Syncing** | `afterSyncing.PNG` | ![After Syncing](screenshots/task3/afterSyncing.PNG) | Shows updated product data after syncing. |
