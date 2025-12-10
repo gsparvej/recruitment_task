@@ -33,14 +33,15 @@ The paths have been updated to reflect the structure: `screenshots/task3/filenam
 
 | Screenshot | File Name | Image | Description |
 | :--- | :--- | :--- | :--- |
-| **All Products (Light Mode)** | `all product in light mode.PNG` | ![All Products Light Mode](screenshots/task3/allProductInLightMode.PNG) | Displays all products in light mode with options to view details. |
-| **All Products (Dark Mode with Row Card)** | `all product in dark mode with row card.PNG` | ![All Products Dark Mode](screenshots/task3/allProductInDarkModeWithRowCard.PNG) | Displays all products in dark mode using a row card layout. |
-| **Search** | `searching.PNG` | ![Search by Category & Title](screenshots/task3/searching.PNG) | Shows searching. |
-| **Search Only by Title** | `searchOnlyByTitle.PNG` | ![Search Only by Title](screenshots/task3/searchOnlyByTitle.PNG) | Shows searching products using only the title. |
-| **Offline Pending Sync** | `offLinePendingSync.PNG` | ![Offline Pending Sync](screenshots/task3/offLinePendingSync.PNG) | Displays products that are pending sync while offline. |
-| **After Syncing** | `afterSyncing.PNG` | ![After Syncing](screenshots/task3/afterSyncing.PNG) | Shows updated product data after syncing. |
-| **Doing Edit** | `doingEdit.PNG` | ![Doing Edit](screenshots/task3/doingEdit.PNG) | Shows the process of editing a product. |
-| **Edit After Syncing** | `editAfterSyncing.PNG` | ![Edit After Syncing](screenshots/task3/editAfterSyncing.PNG) | Displays the edited product after syncing changes. |
+| **All Notes (Light Mode)** | `all product in light mode.PNG` | ![All Notes Light Mode](screenshots/task3/allProductInLightMode.PNG) | Displays all notes in light mode with options to view details. |
+| **All Notes (Dark Mode)** | `all product in dark mode.PNG` | ![All Notes Dark Mode](screenshots/task3/allProductInDarkMode.PNG) | Displays all notes in dark mode for better visual contrast. |
+| **All Notes (Dark Mode with Row Card)** | `all product in dark mode with row card.PNG` | ![All Notes Dark Mode with Row Card](screenshots/task3/allProductInDarkModeWithRowCard.PNG) | Displays notes in dark mode using a row card layout for easier browsing. |
+| **Search Notes** | `searching.PNG` | ![Search Notes](screenshots/task3/searching.PNG) | Shows the search functionality for filtering notes by category and/or title. |
+| **Offline Pending Sync** | `offLinePendingSync.PNG` | ![Offline Pending Sync](screenshots/task3/offLinePendingSync.PNG) | Displays notes that are pending sync while offline. |
+| **After Syncing** | `afterSyncing.PNG` | ![After Syncing](screenshots/task3/afterSyncing.PNG) | Shows updated notes after syncing changes. |
+| **Editing Note** | `doingEdit.PNG` | ![Editing Note](screenshots/task3/doingEdit.PNG) | Shows the process of editing a note. |
+| **Edit After Syncing** | `editAfterSyncing.PNG` | ![Edit After Syncing](screenshots/task3/editAfterSyncing.PNG) | Displays the edited note after syncing changes. |
+
 
 
 
