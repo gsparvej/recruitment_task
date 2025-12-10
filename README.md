@@ -25,6 +25,22 @@ The paths have been updated to reflect the structure: `screenshots/task2/filenam
 | **Search by Category** | `searchByCategory.PNG` | ![Search by Category](screenshots/task2/searchByCategory.PNG) | Allows searching products by their category. |
 | **Search by Category & Title** | `searchByCategoryAndTitle.PNG` | ![Search by Category & Title](screenshots/task2/searchByCategoryAndTitle.PNG) | Allows searching products using both category and title filters. |
 | **Search Only by Title** | `searchOnlyByTitle.PNG` | ![Search Only by Title](screenshots/task2/searchOnlyByTitle.PNG) | Allows searching products using only the title. |
-| **Valid Password Visibility** | `validPasswordVisibility.PNG` | ![Valid Password Visibility](screenshots/task2/validPasswordVisibility.PNG) | Demonstrates password visibility toggle during login or form input. |
-| **Successful Login** | `successfulLogin.PNG` | ![Successful Login](screenshots/task2/successfulLogin.PNG) | Confirms a successful login and displays basic user dashboard. |
+
+
+## 🖼️ Module Screenshots Overview : Task 3
+
+The paths have been updated to reflect the structure: `screenshots/task3/filename.PNG`.
+
+| Screenshot | File Name | Image | Description |
+| :--- | :--- | :--- | :--- |
+| **All Products (Light Mode)** | `all product in light mode.PNG` | ![All Products Light Mode](screenshots/task3/allProductInLightMode.PNG) | Displays all products in light mode with options to view details. |
+| **All Products (Dark Mode with Row Card)** | `all product in dark mode with row card.PNG` | ![All Products Dark Mode](screenshots/task3/allProductInDarkModeWithRowCard.PNG) | Displays all products in dark mode using a row card layout. |
+| **Search by Category & Title** | `searchByCategoryAndTitle.PNG` | ![Search by Category & Title](screenshots/task3/searching.PNG) | Shows searching products by both category and title filters. |
+| **Search Only by Title** | `searchOnlyByTitle.PNG` | ![Search Only by Title](screenshots/task3/searchOnlyByTitle.PNG) | Shows searching products using only the title. |
+| **Offline Pending Sync** | `offLinePendingSync.PNG` | ![Offline Pending Sync](screenshots/task3/offLinePendingSync.PNG) | Displays products that are pending sync while offline. |
+| **After Syncing** | `afterSyncing.PNG` | ![After Syncing](screenshots/task3/afterSyncing.PNG) | Shows updated product data after syncing. |
+| **Doing Edit** | `doingEdit.PNG` | ![Doing Edit](screenshots/task3/doingEdit.PNG) | Shows the process of editing a product. |
+| **Edit After Syncing** | `editAfterSyncing.PNG` | ![Edit After Syncing](screenshots/task3/editAfterSyncing.PNG) | Displays the edited product after syncing changes. |
+
+
 
