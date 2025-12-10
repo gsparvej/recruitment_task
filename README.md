@@ -23,7 +23,7 @@ Successful Login State: Confirms valid credentials and login success.
 
 🖼️ Module Screenshots Overview
 
-Screenshot path format: screenshots/task 1/filename.PNG.
+Screenshot path format: screenshots/task%201/filename.PNG.
 
 Screenshot	File Name	Preview	Description
 Home Page	homePage.PNG	
